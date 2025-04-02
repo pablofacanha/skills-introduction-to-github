@@ -1,2 +1,2 @@
 Welcome to my GitHub profile!
-Praticando um pouco mais
+Praticando um pouco mais dos exercicios
